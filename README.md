@@ -1,6 +1,6 @@
-<center>
-# Gnirehtet监视器
-</center>
+<div style="text-align: center;">
+  Gnirehtet监视器
+</div>
 
 ## 软件简介
 本监视器可以持续监控Gnirehtet的连接，并在出错时自动重启Gnirehtet以重新连接。
